@@ -1,8 +1,8 @@
 name: Example deploy workflow
 
-#on:
-#  push:
-#
+on:
+  push:
+
 #jobs:
 #
 #  build:
