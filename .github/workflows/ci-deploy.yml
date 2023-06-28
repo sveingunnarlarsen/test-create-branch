@@ -1,10 +1,11 @@
+#Example workflow file
 name: Example deploy workflow
 
 on:
   push:
 
-#jobs:
-#
+jobs:
+
 #  build:
 #
 #    runs-on: ubuntu-latest
